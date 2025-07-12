@@ -19,7 +19,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>1.8</java.version>
-        <commons.lang.version>3.9</commons.lang.version>
+        <commons.lang.version>3.18.0</commons.lang.version>
         <lombok.version>1.18.4</lombok.version>
 	</properties>
 
